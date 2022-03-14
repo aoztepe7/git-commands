@@ -1,4 +1,3 @@
-# git-commands
 <h2>Git Komutları</h2>
 
 <div>
