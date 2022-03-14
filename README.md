@@ -211,6 +211,10 @@
 <span> git push -f </span>
 </div>
 
+<div>
+  <span> Referans  </span> <a href="https://dev.to/aviyel/51-git-commands-that-youll-ever-need-to-get-started-with-git-34d5"> DevTO </a>
+</div>
+
 
 
 
